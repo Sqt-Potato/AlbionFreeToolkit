@@ -18,3 +18,9 @@ For better live Black Market and Caerleon prices, install and run the Albion Dat
 - GitHub: https://github.com/ao-data/albiondata-client
 
 The client uploads market orders from the markets you open in game, which helps Live BM and price scans show fresher data.
+
+## Discord
+
+Join the Discord group for updates, support, and discussion:
+
+- https://discord.gg/YvrYpXVQqG
