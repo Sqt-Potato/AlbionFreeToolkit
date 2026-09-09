@@ -2,6 +2,12 @@
 
 Windows portable build for Albion market tools.
 
+## Prerequisites
+
+- Install the current Node.js LTS release from the [official Node.js download page](https://nodejs.org/en/download).
+
+The Windows portable ZIP already includes its tested Node.js runtime. A separate Node.js installation is still recommended for running the project from source or troubleshooting a damaged or incomplete portable extraction.
+
 ## Windows Download
 
 The Windows portable build should be uploaded as a GitHub Release asset:
