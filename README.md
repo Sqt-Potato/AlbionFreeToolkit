@@ -10,11 +10,11 @@ The Windows portable ZIP already includes its tested Node.js runtime. A separate
 
 ## Windows Download
 
-The Windows portable build should be uploaded as a GitHub Release asset:
-
-- `AlbionFlipper-win64.zip`
+- [Download the latest Windows portable ZIP](https://github.com/Sqt-Potato/AlbionFreeToolkit/raw/main/Releases/AlbionFlipper-win64.zip)
 
 Extract the zip and run `AlbionFlipper.exe`. Keep the `runtime` folder next to the executable.
+
+Do not run the executable from inside the ZIP preview. If startup fails, send the diagnostic log from `%LOCALAPPDATA%\AlbionFlipper\logs\launcher.log`.
 
 ## Live Black Market Data
 
